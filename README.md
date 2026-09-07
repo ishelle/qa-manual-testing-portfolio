@@ -235,6 +235,6 @@ Contact
 
 Name: Michelle Cloma
 Role: Software QA Engineer / Manual Tester
-GitHub: [Add your GitHub profile link]
+GitHub: https://github.com/mncloma
 LinkedIn: https://www.linkedin.com/in/michelle-cloma-5142481a9
 Email: mncloma@gmail.com
