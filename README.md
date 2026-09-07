@@ -71,7 +71,7 @@ QA Tools
 - Zoom
 - Slack
 - Webex
-- Visual Coding
+- Visual Studio Coding for code manipulation
 - Browser Developer Tools
 
 Database & SQL
