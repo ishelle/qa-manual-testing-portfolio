@@ -1,0 +1,9 @@
+Test Case ID,Module,Test Scenario,Steps / Test Data,Expected Result,Priority,Status
+TC-LOG-001,Logistics,Shipment Creation,"Create shipment with valid customer, origin, destination, and package details",Shipment is created successfully and a unique tracking number is generated,High,Not Run
+TC-LOG-002,Logistics,Required Fields,Create shipment without entering the destination,System prevents submission and displays a validation message for the destination,High,Not Run
+TC-LOG-003,Logistics,Tracking,Search for a shipment using a valid tracking number,Correct shipment details and current status are displayed,High,Not Run
+TC-LOG-004,Logistics,Invalid Tracking,Search for a shipment using an invalid tracking number,System displays a clear 'Shipment not found' message,Medium,Not Run
+TC-LOG-005,Logistics,Shipment Status,Update a shipment status from 'Pending' to 'In Transit',Shipment status changes to 'In Transit' and the updated status is displayed,High,Not Run
+TC-LOG-006,Logistics,Delivery,Mark an active shipment as 'Delivered',Shipment status changes to 'Delivered' and delivery information is recorded,High,Not Run
+TC-LOG-007,Logistics,Data Validation,Enter an invalid or negative package weight,System rejects the value and displays an appropriate validation message,Medium,Not Run
+TC-LOG-008,Logistics,Regression,Open shipment details after creating a shipment,Shipment details remain accurate and all saved information is displayed correctly,Medium,Not Run
