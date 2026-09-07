@@ -201,6 +201,36 @@ My testing approach includes:
 9. Validating data using SQL
 10. Documenting test results
 
+Professional Experience
+
+Software Quality Assurance Engineer 2
+Cormant Technologies Inc. | May 2022 – August 2023
+- Performed manual, functional, and post-deployment testing for DHL applications.
+- Created and executed test cases based on business requirements.
+- Logged and tracked defects using Jira.
+- Validated application data using SQL.
+- Collaborated with development teams to support issue resolution and software quality.
+
+Software Quality Assurance Engineer
+Sqreem Tech. Inc. | July 2021 – January 2022
+- Created and executed test cases and test plans.
+- Performed quality assurance testing for advertising-related applications.
+Analyzed testing results.
+
+Design Engineer 2
+Tsukiden Global Solution | May 2019 – July 2021
+- Conducted manual testing of C++ automotive engine software.
+- Performed algorithm updates, variable analysis, and test execution.
+Reported and tracked defects.
+Used Jira and Confluence for documentation and task tracking.
+
+Certifications
+Deloitte Data Analytics Job Simulation — 2026
+SQL Beginners Certification — Cormant, 2024
+
+Career Goal
+To contribute my QA experience and testing skills to a software development team where I can help deliver reliable, high-quality applications while continuously improving my technical and analytical skills.
+
 Contact
 
 Name: Michelle Cloma
